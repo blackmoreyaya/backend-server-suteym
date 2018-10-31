@@ -1,0 +1,1 @@
+module.exports.SEED = 'blckmore-y4y4-05-10-37-6ppelin';
